@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+fairseq = "==v0.10.2"
+sacrebleu = "==v2.0.0"
+bert-score = "==v0.3.11"
+transformers = "==v3.1.0"
+openpyxl = "==v3.1.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
+python_full_version = "3.7.17"

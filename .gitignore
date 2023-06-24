@@ -1,0 +1,8 @@
+output/
+bart.base/
+rotowire-bins/
+Input*
+encoder.json
+vocab.bpe
+Pipfile.lock
+text-to-table.pt
