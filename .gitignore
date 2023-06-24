@@ -5,4 +5,4 @@ Input*
 encoder.json
 vocab.bpe
 Pipfile.lock
-text-to-table.pt
+text-to-table.pt*
